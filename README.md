@@ -26,4 +26,4 @@ Includes model explainability tools.
 
 Summarizes experiments, results, and provides feedback.
 
-Kaggle link : https://www.kaggle.com/code/saintjimmy182/multiclass-food-classification-using-tensorflow?scriptVersionId=55962970
+Kaggle link : https://www.kaggle.com/code/saintjimmy182/multiclass-food-classification-using-tensorflow
